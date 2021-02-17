@@ -1,0 +1,9 @@
+Top-down shooter rogue-lite with the reloading system from Gears of War. Less
+arcadey and more tactical feeling than games like Nuclear Throne or Binding of
+Isaac. Sound design of the guns is top notch and the combination of the
+overheating system, active reloading, and potential for gun jamming leads to
+many incredibly hectic moments where good awareness and calm are rewarded. Main
+issues are the technical performance of the game and the poorly designed
+difficulty curve. 
+
+- Ben Bui
