@@ -1,0 +1,7 @@
+Reasonably difficult boss rush game. Gameplay consists 50% of learning boss
+patterns and reactive timings and 50% of bullet hell segments (except for the
+very last boss, the worst fight in the game). Parry timing might feel a bit off
+but definitely something you can get used to. Game is designed around having 2
+playthroughs, one on normal and then another on hard. 
+
+- Ben Bui
