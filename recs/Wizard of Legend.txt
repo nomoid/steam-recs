@@ -1,0 +1,7 @@
+A short and sweet roguelike with simple systems and clean execution. Wizard of
+Legend hits the elemental magic meets martial arts fantasy presented by
+universes like Avatar. Difficult enough to be challenging, but easy enough to
+not be frustrating, Wizard of Legend can be an approachable introduction to the
+roguelike genre.
+
+- Ben Drews

@@ -1,0 +1,7 @@
+A game for nerds who think coding in pseudo-assembly would make for a fun game.
+The presentation makes it much more accessible than similar games from
+Zachtronics like Shenzhen I/O (although those games are great too). Even though
+it might not look like an actual game, trust me this title is actually quite a
+bit of fun.
+
+- Ben Bui
